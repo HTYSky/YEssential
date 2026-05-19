@@ -76,7 +76,7 @@ var CleanMgr = (function () {
       "^minecraft:ender_crystal$", "^minecraft:ender_dragon$", "^minecraft:parrot$",
       "^minecraft:chest_minecart$", "^minecraft:minecart$", "^minecraft:hopper_minecart$",
       "^minecraft:armor_stand$", "^minecraft:boat$", "^minecraft:sheep$","^minecraft:leash_knot$",
-      "^minecraft:cow$", "^minecraft:pig$", "^minecraft:painting$"
+      "^minecraft:cow$", "^minecraft:pig$", "^minecraft:painting$", "^minecraft:copper_golem$"
     ],
     notice: { notice1: 30, notice2: 15, notice3: 5 },
     LowTpsClean: { 
